@@ -3,3 +3,5 @@ Arias Valentino
 Di Leone Agustin
 A) ALFA puede ver los datos que cargan los demás en su repositorio porque tiene el acceso total.
 B) Si ALFA carga un archivo los demás colaboradores pueden verlo porque tienen permisos de lectura y escritura en el repositorio.
+C) Si BETA agrega un archivo los demás integrantes del repositorio lo puede ver porque este es un colaborador del proyecto, y porque tiene persimos de lectura y escritura en el repositorio.
+D) Nos comunicamos mendiante un grupode Whatsapp para organizarnos.
