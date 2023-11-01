@@ -1,3 +1,5 @@
 Sueldo Yamila
 Arias Valentino
 Di Leone Agustin
+A) ALFA puede ver los datos que cargan los demás en su repositorio porque tiene el acceso total.
+B) Si ALFA carga un archivo los demás colaboradores pueden verlo porque tienen permisos de lectura y escritura en el repositorio.
